@@ -1,0 +1,5 @@
+{
+  "name": "e2ee",
+  "author": "Zgoly",
+  "description": "Adds client-side AES-GCM end-to-end encryption for messages with auto-decrypt and password protection."
+}
