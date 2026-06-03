@@ -1,5 +1,5 @@
 {
-  "name": "e2ee",
+  "name": "E2EE",
   "author": "Zgoly",
   "description": "Encrypts messages with a password, supports auto-decryption, and offers a simple UI."
 }
