@@ -48,7 +48,6 @@
 
   const t = (key) => locales[shelter.flux.stores?.LocaleStore?.locale]?.[key] ?? locales.en[key] ?? key;
 
-
   const createIcon = (path, size = 24) => `
     <svg viewBox="0 0 24 24" width="${size}" height="${size}" 
         fill="none" stroke="currentColor" stroke-width="2" 
